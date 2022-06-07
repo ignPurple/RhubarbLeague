@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!162 &1
+EditorUserSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 4
+  m_ConfigSettings:
+    RecentlyUsedScenePath-0:
+      value: 2242470311464668393b2a04501a7025563439046c1d15156219123ffbe73b36d1f337fbf33f2d730a01ea32012d4e2cfa051e45e305031f08
+      flags: 0
+    RecentlyUsedScenePath-1:
+      value: 2242470311464668393b2a04501a7025563439046c1d15156219123ffbe73b36d1f337fbf33f2d730a01ea32012d4e1bf7070645e305031f08
+      flags: 0
+    RecentlyUsedScenePath-2:
+      value: 2242470311464669222c3f6223176a3630582b2929262323623a153cf5ae2136ebf32f
+      flags: 0
+    RecentlyUsedScenePath-3:
+      value: 2242470311464669222c3f6223176a3630582b2929262323620d183eeda06576f7e93ffdfe
+      flags: 0
+    RecentlyUsedScenePath-4:
+      value: 2242470311464669222c3f6223176a3630582b292926232362391132fbe72637f7e932a7f234362820
+      flags: 0
+    RecentlyUsedScenePath-5:
+      value: 2242470311464669222c3f6223176a3630582b2929262323621a0d3fe3f33c76f7e93ffdfe
+      flags: 0
+    RecentlyUsedScenePath-6:
+      value: 2242470311464668393b2a04501a7025563439046c1d1515620a1c21add3373dece225a6d33f2c287936fd3d07354f2afc031d12
+      flags: 0
+    RecentlyUsedScenePath-7:
+      value: 2242470311464669222c3f6223176a3630582b2929262323622d183eedae2136ebf32f
+      flags: 0
+    RecentlyUsedScenePath-8:
+      value: 2242470311464668393b2a04501a7025563439046c1d1515620a1c21add3373dece225a6ca2f33283012e33d1d3b137fc6180808fd451f05181ae4
+      flags: 0
+    RecentlyUsedScenePath-9:
+      value: 224247031146467f224e350d25111f2322223e0c6c010870050c2f16add3373dece225a6ca3b36321e03e2394a2b0f36e613
+      flags: 0
+    vcSharedLogLevel:
+      value: 0d5e400f0650
+      flags: 0
+  m_VCAutomaticAdd: 1
+  m_VCDebugCom: 0
+  m_VCDebugCmd: 0
+  m_VCDebugOut: 0
+  m_SemanticMergeMode: 2
+  m_VCShowFailedCheckout: 1
+  m_VCOverwriteFailedCheckoutAssets: 1
+  m_VCProjectOverlayIcons: 1
+  m_VCHierarchyOverlayIcons: 1
+  m_VCOtherOverlayIcons: 1
+  m_VCAllowAsyncUpdate: 1
